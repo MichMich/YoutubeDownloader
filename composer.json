@@ -24,6 +24,8 @@
         "dflydev/apache-mime-types": "1.0.*@dev",
         "mwhite/random-uagent": "dev-master"
     },
+    
+    "minimum-stability": "dev",
 
     "require-dev": {
         "janmarek/mockista": "dev-master",
