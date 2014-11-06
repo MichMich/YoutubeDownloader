@@ -21,13 +21,13 @@
     "require": {
         "php": ">=5.3",
         "guzzle/guzzle": "~3.7",
-        "dflydev/apache-mime-types": "1.0.*@dev",
-        "mwhite/random-uagent": "dev-master"
+        "dflydev/apache-mime-types": "1.0.*@dev"
     },
 
     "require-dev": {
         "janmarek/mockista": "dev-master",
-        "satooshi/php-coveralls": "dev-master"
+        "satooshi/php-coveralls": "dev-master",
+        "mwhite/random-uagent": "dev-master"
     },
 
     "autoload": {
